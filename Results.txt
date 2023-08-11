@@ -1,0 +1,150 @@
+###########################
+SCENARIO OF MY TOPOLOGY!
+###########################
+
+##################### HUB LINKS #####################
+
+hb id is: 5
+
+hb linkerID is: 3
+
+hb linkerID is: 4
+
+hb id is: 9
+
+hb linkerID is: 7
+
+hb linkerID is: 10
+
+hb linkerID is: 11
+
+hb linkerID is: 12
+
+##################### SERVERS LINKS #####################
+
+srv id is: 10
+srv linkerID is: 9
+srv id is: 11
+srv linkerID is: 9
+srv id is: 12
+srv linkerID is: 9
+##################### SWITCHES LINKS #####################
+
+sw id is: 3
+sw linkerID is: 1
+
+sw linkerID is: 5
+
+sw linkerID is: 2
+
+sw linkerID is: 6
+
+sw id is: 4
+sw linkerID is: 1
+
+sw linkerID is: 5
+
+sw linkerID is: 2
+
+sw id is: 7
+sw linkerID is: 6
+
+sw linkerID is: 8
+
+sw linkerID is: 9
+
+##################### WORKSTATIONS LINKS #####################
+
+ws id is: 1
+ws linkerID is: 3
+
+ws linkerID is: 4
+
+ws id is: 2
+ws linkerID is: 3
+
+ws linkerID is: 4
+
+ws id is: 6
+ws linkerID is: 3
+
+ws linkerID is: 7
+
+ws id is: 8
+ws linkerID is: 7
+
+###########################
+SCENARIO OF MY TOPOLOGY!
+###########################
+
+##################### HUB LINKS #####################
+
+hb id is: 5
+
+hb linkerID is: 3
+
+hb linkerID is: 4
+
+hb id is: 9
+
+hb linkerID is: 7
+
+hb linkerID is: 10
+
+hb linkerID is: 11
+
+hb linkerID is: 12
+
+##################### SERVERS LINKS #####################
+
+srv id is: 10
+srv linkerID is: 9
+srv id is: 11
+srv linkerID is: 9
+srv id is: 12
+srv linkerID is: 9
+##################### SWITCHES LINKS #####################
+
+sw id is: 3
+sw linkerID is: 1
+
+sw linkerID is: 5
+
+sw linkerID is: 2
+
+sw linkerID is: 6
+
+sw id is: 4
+sw linkerID is: 1
+
+sw linkerID is: 5
+
+sw linkerID is: 2
+
+sw id is: 7
+sw linkerID is: 6
+
+sw linkerID is: 8
+
+sw linkerID is: 9
+
+##################### WORKSTATIONS LINKS #####################
+
+ws id is: 1
+ws linkerID is: 3
+
+ws linkerID is: 4
+
+ws id is: 2
+ws linkerID is: 3
+
+ws linkerID is: 4
+
+ws id is: 6
+ws linkerID is: 3
+
+ws linkerID is: 7
+
+ws id is: 8
+ws linkerID is: 7
+
